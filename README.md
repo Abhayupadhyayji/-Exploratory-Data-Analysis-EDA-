@@ -10,6 +10,7 @@ Analyze customer purchase behavior during Diwali
 Identify top-performing products and categories
 Understand demographics (age, gender, state-wise trends)
 Help businesses improve sales strategy
+
 📁 Dataset
 Dataset: Diwali Sales Data
 Contains customer details such as:
@@ -21,6 +22,7 @@ Product Category
 Amount Spent
 
 🛠️ Tools & Libraries Used
+
 Python 🐍
 Pandas
 NumPy
@@ -29,6 +31,7 @@ Seaborn
 Jupyter Notebook
 
 🔍 Steps Performed
+
 1. Data Cleaning
 Removed null values
 Dropped unnecessary columns
@@ -46,6 +49,7 @@ Heatmaps
 Distribution plots
 
 📊 Key Insights
+
 Females contributed more to overall sales
 Age group 26–35 has highest purchasing power
 Certain states generate higher revenue
@@ -61,6 +65,7 @@ Optimize product offerings
 Improve marketing strategies
 
 🚀 Future Work
+
 Build a recommendation system
 Apply machine learning models
 Predict customer purchasing behavior
